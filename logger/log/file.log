@@ -1,0 +1,212 @@
+[2024-09-30 14:32:21] INFO: Processing user input: error
+[2024-09-30 14:32:21] ERROR: An error occurred while processing input.
+[2024-09-30 14:32:21] INFO: Processing user input: example
+[2024-09-30 14:32:21] INFO: User input processed successfully.
+[2024-09-30 14:32:21] DEBUG: This is a debug message
+[2024-09-30 14:32:21] INFO: This is an info message
+[2024-09-30 14:32:21] WARNING: This is a warning message
+[2024-09-30 14:32:21] ERROR: This is an error message
+[2024-09-30 14:32:58] DEBUG: This is a debug message
+[2024-09-30 14:32:58] INFO: This is an info message
+[2024-09-30 14:32:58] WARNING: This is a warning message
+[2024-09-30 14:32:58] ERROR: This is an error message
+[2024-09-30 14:33:12] DEBUG: This is a debug message
+[2024-09-30 14:33:12] INFO: This is an info message
+[2024-09-30 14:33:12] WARNING: This is a warning message
+[2024-09-30 14:33:12] ERROR: This is an error message
+[2024-09-30 14:33:13] DEBUG: This is a debug message
+[2024-09-30 14:33:13] INFO: This is an info message
+[2024-09-30 14:33:13] WARNING: This is a warning message
+[2024-09-30 14:33:13] ERROR: This is an error message
+[2024-09-30 14:33:14] DEBUG: This is a debug message
+[2024-09-30 14:33:14] INFO: This is an info message
+[2024-09-30 14:33:14] WARNING: This is a warning message
+[2024-09-30 14:33:14] ERROR: This is an error message
+[2024-09-30 14:36:18] DEBUG: This is a debug message
+[2024-09-30 14:36:18] INFO: This is an info message
+[2024-09-30 14:36:18] WARNING: This is a warning message
+[2024-09-30 14:36:18] ERROR: This is an error message
+[2024-09-30 14:36:44] INFO: Added the routes
+[2024-09-30 14:36:52] INFO: Added the routes
+[2024-09-30 14:36:52] INFO: Added the routes
+[2024-09-30 14:36:54] INFO: Added the routes
+[2024-09-30 14:37:47] DEBUG: The logger has been set.
+[2024-09-30 14:37:48] DEBUG: The logger has been set.
+[2024-09-30 14:37:49] DEBUG: The logger has been set.
+[2024-09-30 14:37:49] DEBUG: Added the routes
+[2024-09-30 14:38:33] DEBUG: The logger has been set.
+[2024-09-30 14:38:45] DEBUG: The logger has been set.
+[2024-09-30 14:39:05] DEBUG: The logger has been set.
+[2024-09-30 14:39:06] DEBUG: The logger has been set.
+[2024-09-30 14:39:19] DEBUG: The logger has been set.
+[2024-09-30 14:39:20] DEBUG: The logger has been set.
+[2024-09-30 14:39:20] DEBUG: Added the routes
+[2024-09-30 14:39:27] DEBUG: The logger has been set.
+[2024-09-30 14:39:27] DEBUG: Added the routes
+[2024-09-30 14:40:05] DEBUG: The logger has been set.
+[2024-09-30 14:41:02] INFO: The logger has been set.
+[2024-09-30 14:41:02] DEBUG: Added the routes
+[2024-09-30 14:41:06] INFO: The logger has been set.
+[2024-09-30 14:41:06] DEBUG: Added the routes
+[2024-09-30 14:41:07] INFO: The logger has been set.
+[2024-09-30 14:41:07] DEBUG: Added the routes
+[2024-09-30 14:41:07] INFO: The logger has been set.
+[2024-09-30 14:41:08] INFO: The logger has been set.
+[2024-09-30 14:41:08] DEBUG: Added the routes
+[2024-09-30 14:41:08] INFO: The logger has been set.
+[2024-09-30 14:41:08] DEBUG: Added the routes
+[2024-09-30 14:41:09] INFO: The logger has been set.
+[2024-09-30 14:41:09] DEBUG: Added the routes
+[2024-09-30 14:41:10] INFO: The logger has been set.
+[2024-09-30 14:41:11] INFO: The logger has been set.
+[2024-09-30 14:41:11] DEBUG: Added the routes
+[2024-09-30 14:41:11] INFO: The logger has been set.
+[2024-09-30 14:41:14] INFO: The logger has been set.
+[2024-09-30 14:41:14] DEBUG: Added the routes
+[2024-09-30 14:41:14] INFO: The logger has been set.
+[2024-09-30 14:44:46] INFO: The logger has been set.
+[2024-09-30 14:44:47] INFO: The logger has been set.
+[2024-09-30 14:44:49] INFO: The logger has been set.
+[2024-09-30 14:44:52] INFO: The logger has been set.
+[2024-09-30 14:44:52] DEBUG: Added the routes
+[2024-09-30 14:44:53] INFO: The logger has been set.
+[2024-09-30 14:44:53] DEBUG: Added the routes
+[2024-09-30 14:44:56] INFO: The logger has been set.
+[2024-09-30 14:44:56] DEBUG: Added the routes
+[2024-09-30 14:44:57] INFO: The logger has been set.
+[2024-09-30 14:45:55] INFO: The logger has been set.
+[2024-09-30 14:45:58] INFO: The logger has been set.
+[2024-09-30 14:45:58] INFO: The logger has been set.
+[2024-09-30 14:45:58] DEBUG: Added the routes
+[2024-09-30 14:45:59] INFO: The logger has been set.
+[2024-09-30 14:45:59] DEBUG: Added the routes
+[2024-09-30 14:45:59] INFO: The logger has been set.
+[2024-09-30 14:45:59] DEBUG: Added the routes
+[2024-09-30 14:46:00] INFO: The logger has been set.
+[2024-09-30 14:46:07] INFO: The logger has been set.
+[2024-09-30 14:46:08] INFO: The logger has been set.
+[2024-09-30 14:46:08] DEBUG: Added the routes
+[2024-09-30 14:46:08] INFO: The logger has been set.
+[2024-09-30 14:46:08] DEBUG: Added the routes
+[2024-09-30 14:46:09] INFO: The logger has been set.
+[2024-09-30 14:46:09] DEBUG: Added the routes
+[2024-09-30 14:46:09] INFO: The logger has been set.
+[2024-09-30 14:46:09] DEBUG: Added the routes
+[2024-09-30 14:46:10] INFO: The logger has been set.
+[2024-09-30 14:46:31] INFO: The logger has been set.
+[2024-09-30 14:46:31] INFO: The logger has been set.
+[2024-09-30 14:46:32] INFO: The logger has been set.
+[2024-09-30 14:46:32] INFO: The logger has been set.
+[2024-09-30 14:46:33] INFO: The logger has been set.
+[2024-09-30 14:46:33] DEBUG: Added the routes
+[2024-09-30 14:46:34] INFO: The logger has been set.
+[2024-09-30 14:46:39] INFO: The logger has been set.
+[2024-09-30 14:46:39] DEBUG: Added the routes
+[2024-09-30 14:46:41] INFO: The logger has been set.
+[2024-09-30 14:46:41] DEBUG: Added the routes
+[2024-09-30 14:46:41] INFO: The logger has been set.
+[2024-09-30 14:46:41] DEBUG: Added the routes
+[2024-09-30 14:46:46] INFO: The logger has been set.
+[2024-09-30 14:47:10] INFO: The logger has been set.
+[2024-09-30 14:47:46] INFO: The logger has been set.
+[2024-09-30 14:47:46] INFO: The logger has been set.
+[2024-09-30 14:47:46] DEBUG: Added the routes
+[2024-09-30 14:47:51] INFO: The logger has been set.
+[2024-09-30 14:47:51] INFO: The logger has been set.
+[2024-09-30 14:47:51] DEBUG: Added the routes
+[2024-09-30 14:51:27] INFO: The user has gone to the Register page
+[2024-09-30 14:51:49] INFO: The user has submitted their account registration.
+[2024-09-30 14:51:49] WARNING: The inputted username wasn't valid.
+[2024-09-30 14:51:49] INFO: The user has gone to the Register page
+[2024-09-30 14:53:31] INFO: The user has submitted their account registration.
+[2024-09-30 14:53:32] INFO: The account was added.
+[2024-09-30 14:54:33] INFO: The user has submitted logged out.
+[2024-09-30 14:54:33] INFO: The session was reset.
+[2024-09-30 14:57:08] INFO: The user has gone to the login page.
+[2024-09-30 14:57:18] INFO: The user has submitted the login form.
+[2024-09-30 14:57:18] INFO: The database was contacted to search for username
+[2024-09-30 14:57:18] WARNING: No username was found.
+[2024-09-30 14:57:18] INFO: The user has gone to the login page.
+[2024-09-30 14:57:28] INFO: The user has submitted the login form.
+[2024-09-30 14:57:28] INFO: The database was contacted to search for username
+[2024-09-30 14:57:28] INFO: The inputted password was invalid.
+[2024-09-30 14:57:28] INFO: The user has gone to the login page.
+[2024-09-30 14:57:43] INFO: The user has submitted the login form.
+[2024-09-30 14:57:43] INFO: The database was contacted to search for username
+[2024-09-30 14:57:43] INFO: The inputted password was invalid.
+[2024-09-30 14:57:43] INFO: The user has gone to the login page.
+[2024-09-30 14:57:53] INFO: The user has submitted the login form.
+[2024-09-30 14:57:53] INFO: The database was contacted to search for username
+[2024-09-30 14:57:53] INFO: The password was valid and the user was logged in.
+[2024-09-30 15:20:11] INFO: The user has gone to the Register page
+[2024-09-30 15:20:20] INFO: The user has submitted logged out.
+[2024-09-30 15:20:20] INFO: The session was reset.
+[2024-09-30 15:20:21] INFO: The user has gone to the Register page
+[2024-09-30 15:27:26] INFO: The user has gone to the login page.
+[2024-09-30 15:27:32] INFO: The user has submitted the login form.
+[2024-09-30 15:27:32] INFO: The database was contacted to search for username
+[2024-09-30 15:27:32] INFO: The password was valid and the user was logged in.
+[2024-09-30 15:29:50] INFO: The user has submitted logged out.
+[2024-09-30 15:29:50] INFO: The session was reset.
+[2024-09-30 15:29:53] INFO: The user has gone to the login page.
+[2024-09-30 15:29:58] INFO: The user has submitted the login form.
+[2024-09-30 15:29:58] INFO: The database was contacted to search for username
+[2024-09-30 15:29:58] INFO: The password was valid and the user was logged in.
+[2024-09-30 15:39:54] INFO: The user has submitted logged out.
+[2024-09-30 15:39:54] INFO: The session was reset.
+[2024-09-30 15:39:57] INFO: The user has gone to the login page.
+[2024-09-30 15:39:58] INFO: The user has gone to the Register page
+[2024-09-30 15:39:59] INFO: The user has gone to the login page.
+[2024-09-30 15:40:05] INFO: The user has submitted the login form.
+[2024-09-30 15:40:05] INFO: The database was contacted to search for username
+[2024-09-30 15:40:05] INFO: The password was valid and the user was logged in.
+[2024-09-30 17:18:09] INFO: The user has submitted logged out.
+[2024-09-30 17:18:09] INFO: The session was reset.
+[2024-09-30 17:22:08] INFO: The user has gone to the login page.
+[2024-09-30 17:22:14] INFO: The user has submitted the login form.
+[2024-09-30 17:22:14] INFO: The database was contacted to search for username
+[2024-09-30 17:22:14] INFO: The password was valid and the user was logged in.
+[2024-10-01 22:42:10] INFO: The user has gone to the Register page
+[2024-10-01 22:42:13] INFO: The user has gone to the login page.
+[2024-10-01 22:42:20] INFO: The user has submitted the login form.
+[2024-10-01 22:42:20] INFO: The database was contacted to search for username
+[2024-10-01 22:42:20] INFO: The password was valid and the user was logged in.
+[2024-10-01 22:42:25] INFO: The user has gone to the Register page
+[2024-10-01 22:42:31] INFO: The user has gone to the Register page
+[2024-10-01 22:42:32] INFO: The user has gone to the Register page
+[2024-10-01 22:42:32] INFO: The user has gone to the Register page
+[2024-10-01 22:42:49] INFO: The user has gone to the Register page
+[2024-10-01 23:09:35] INFO: The user has submitted logged out.
+[2024-10-01 23:09:35] INFO: The session was reset.
+[2024-10-01 23:09:37] INFO: The user has gone to the login page.
+[2024-10-01 23:09:48] INFO: The user has submitted the login form.
+[2024-10-01 23:09:48] INFO: The database was contacted to search for username
+[2024-10-01 23:09:48] INFO: The inputted password was invalid.
+[2024-10-01 23:09:48] INFO: The user has gone to the login page.
+[2024-10-01 23:09:56] INFO: The user has submitted the login form.
+[2024-10-01 23:09:56] INFO: The database was contacted to search for username
+[2024-10-01 23:09:56] INFO: The password was valid and the user was logged in.
+[2024-10-01 23:12:17] INFO: The user has gone to the login page.
+[2024-10-01 23:12:24] INFO: The user has submitted the login form.
+[2024-10-01 23:12:24] INFO: The database was contacted to search for username
+[2024-10-01 23:12:24] INFO: The password was valid and the user was logged in.
+[2024-10-01 23:23:37] INFO: The user has gone to the login page.
+[2024-10-01 23:24:10] INFO: The user has submitted the login form.
+[2024-10-01 23:24:10] INFO: The database was contacted to search for username
+[2024-10-01 23:24:10] INFO: The password was valid and the user was logged in.
+[2024-10-02 01:14:51] INFO: The user has submitted logged out.
+[2024-10-02 01:14:51] INFO: The session was reset.
+[2024-10-02 01:14:55] INFO: The user has gone to the Register page
+[2024-10-02 01:21:27] INFO: The user has gone to the Register page
+[2024-10-02 01:22:33] INFO: The user has submitted their account registration.
+[2024-10-02 01:22:33] INFO: The account was added.
+[2024-10-02 01:23:05] INFO: The user has gone to the Settings.
+[2024-10-02 01:23:23] INFO: The user has started the game.
+[2024-10-02 01:23:38] INFO: The user has started the game.
+[2024-10-02 01:24:34] INFO: The user has submitted logged out.
+[2024-10-02 01:24:34] INFO: The session was reset.
+[2024-10-02 01:24:46] INFO: The user has gone to the login page.
+[2024-10-02 01:24:54] INFO: The user has submitted the login form.
+[2024-10-02 01:24:54] INFO: The database was contacted to search for username
+[2024-10-02 01:24:54] INFO: The password was valid and the user was logged in.
+[2024-10-02 01:25:04] INFO: The user has started the game.

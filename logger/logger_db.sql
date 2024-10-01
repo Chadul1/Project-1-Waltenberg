@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS logger_db;
+
+USE logger_db;
+
+CREATE TABLE IF NOT EXISTS logs (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
+    level VARCHAR(10),
+    message TEXT
+);
